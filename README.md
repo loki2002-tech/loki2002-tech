@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="A_2D_digital_graphic_design_banner_introduces_Loke.png" alt="Hi, I'm Lokesh" width="100%" />
+  <img src="A_2D_digital_graphic_design_banner_introduces_Lokesh.png" alt="Hi, I'm Lokesh" width="100%" />
 </p>
 
 # 👋 Hi, I'm Lokesh Ramireddy  
