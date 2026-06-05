@@ -3,8 +3,9 @@
 # 👋 Hey, I'm Lokesh Ramireddy
 
 ### Software Engineer • Accessibility Tester • AI Builder • IoT Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=71347B&center=true&vCenter=true&width=900&lines=Building+Accessible+Technology;AI+Powered+Solutions;Java+%7C+Python+Developer;Accessibility+Engineer;Turning+Ideas+Into+Reality"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=71347B&center=true&vCenter=true&width=800&lines=Accessibility+Engineer;AI+Developer;Java+%7C+Python+Developer;Building+Accessible+Technology" />
+</p>
 
 </div>
 
